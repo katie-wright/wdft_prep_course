@@ -1,0 +1,12 @@
+p{
+    width: fit-content;
+}
+.box1 {
+    padding: 10px;
+    background-color: grey;
+}
+
+.box2 {
+    margin: 30px 0;
+    border: 10px solid grey;
+}
