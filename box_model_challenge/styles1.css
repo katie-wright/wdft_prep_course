@@ -1,0 +1,10 @@
+p {
+    background-color: grey;
+    color: white;
+    width: 200px;
+    padding: 10px 20px;
+    border: 2px dotted white;
+}
+.box2 {
+    margin: 30px 0px;
+}
